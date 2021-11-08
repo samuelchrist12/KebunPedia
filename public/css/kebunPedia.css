@@ -1,0 +1,124 @@
+.warnaNav{
+    background-color: #cfdfda;
+    border-bottom: 1px solid #236477;
+}
+.warnaFoot{
+    background-color: #173042;
+}
+.test{
+    border: 1px solid black;
+}
+.logo{
+    color:#236477;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.logo:focus{
+    color:#236477;
+}
+.content{
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 3em;
+    padding-right: 3em;
+}
+.minimal{
+    min-width: 900px;
+    min-height: 300px;
+}
+.bubble1{
+    background-color:  #236477;
+    color: white;
+    padding:0.5em;
+    margin-bottom: 0.1em;
+}
+.bubble2{
+    background-color: white;
+    color: #173042;;
+    padding:1em;
+    margin-bottom: 1em;
+}
+.bubble3{
+    background-color: #4a6c2f;
+    color: white;
+    padding:0.5em;
+    margin-bottom: 0.1em;
+}
+.menu1{
+    margin-right:0.5em;
+}
+.menu2{
+    margin-right:0.5em;
+    margin-left:0.5em;
+}
+.menu3{
+    margin-left:0.5em;
+}
+.profil{
+    border: 2px solid #236477;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    padding:0.5em;
+}
+.pad1{
+    padding:1em;
+}
+.pad2{
+    padding:0.5em;
+}
+.shop{
+    background-color: #236477;
+    color: white;
+}
+.forum{
+    color: white;
+    background-color: #236477;
+    width: 100%;
+    padding: 1em;
+    margin-top: 0.5em;
+}
+.createForum{
+    width: 100%;
+}
+.joinForum{
+    width: 100%;
+}
+.depan{
+    background-color: rgba(255, 255, 255, 0.61);
+}
+.headerforum{
+    width:100%;
+    padding: 1em;
+    color: white;
+    background-color: #236477;
+}
+.isiforum{
+    width:100%;
+    padding: 1em;
+    border: 0.5em solid #236477;
+}
+.footforum{
+    width:100%;
+    padding: 1em;
+    color: white;
+    background-color: #236477;
+}
+.kirimUser{
+    width:10%;
+    margin-bottom:1em;
+    padding: 1em;
+    color: white;
+    background-color: #4a6c2f;
+}
+.kirimOrang{
+    width:10%;
+    margin-bottom:1em;
+    padding: 1em;
+    color: white;
+    background-color: #173042;
+}
+/* div{
+    border:1px solid black;
+} */
